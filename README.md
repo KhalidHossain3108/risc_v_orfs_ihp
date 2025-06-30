@@ -89,5 +89,5 @@ This project is released under the MIT License.
 [GitHub](https://github.com/KhalidHossain3108)  
 
 **Sheikh Tariful Islam**
-[GitHub]([https://github.com/KhalidHossain3108](https://github.com/tariftasfiq))  
+[GitHub](https://github.com/tariftasfiq)  
 **Contributions and pull requests are welcome!**
