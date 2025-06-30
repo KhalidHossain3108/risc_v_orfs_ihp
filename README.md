@@ -44,17 +44,7 @@ By publishing this flow, we aim to **lower the barrier to custom chip design**, 
 
 ## 🗂️ Repository Structure
 
-\`\`\`
-risc_v_orfs_ihp/
-├── flow/         # OpenROAD flow scripts and configuration files
-├── src/          # RTL design files (PicoRV32 or custom core)
-├── def2gds/      # DEF to GDSII conversion scripts (Magic / KLayout)
-├── docs/         # Design reports: timing, area, power
-├── results/      # Generated netlists, DEF, GDSII output
-└── README.md     # Project documentation
-\`\`\`
 
----
 
 ## 🚀 How to Run
 
